@@ -1,0 +1,49 @@
+body{
+    color: white;
+    background-color: black;
+
+}
+.nome_titulo{
+    text-align: center;
+    margin-bottom: 80px;
+    font-family: 'Alfa Slab One', cursive;
+    
+    
+}
+
+.nome{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    border-left: 5px;
+}
+
+.texto{
+    display: flex;
+    justify-content: center;
+    margin-top: 5px;
+    align-items: center;
+    flex-direction: column;
+    
+}
+
+h2{
+    text-align: center;
+    margin-bottom: 70px;
+    font-family: 'Dancing Script', cursive;
+}
+
+h2{
+    color: aqua;
+}
+
+.nome{
+    margin-bottom: 5px;
+    margin: 50px;
+    margin-block-end: 10px;
+}
+
+.nome1{
+    margin-right: 4px;
+    
+}
